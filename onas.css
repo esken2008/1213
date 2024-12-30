@@ -1,0 +1,30 @@
+#about-us {
+  padding: 50px 20px;
+  background-color: #f9f9f9;
+  color: #333;
+}
+
+#about-us .container {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+#about-us h2 {
+  text-align: center;
+  margin-bottom: 20px;
+  font-size: 2em;
+}
+
+#about-us h3 {
+  margin-top: 20px;
+  font-size: 1.5em;
+}
+
+#about-us ul {
+  list-style-type: disc;
+  margin-left: 20px;
+}
+
+#about-us li {
+  margin-bottom: 10px;
+}
